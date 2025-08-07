@@ -18,10 +18,10 @@
 ## 🎯 **Current Focus**
 
 ```yaml
-🦀 Research: Advanced Rust for high-performance agent systems
-🤖 Engineering: Multi-agent orchestration and autonomous workflows  
-🧠 Innovation: Self-evolving backend architectures with AI reasoning
-🔬 Exploring: Emergent behaviors in distributed agent networks
+🦀 Learning: Rust for systems programming
+🤖 Building: Self-writing backend systems with AI agents
+🌟 Exploring: Autonomous development workflows
+📊 Contributing: Open source AI/ML projects
 ```
 
 ---
